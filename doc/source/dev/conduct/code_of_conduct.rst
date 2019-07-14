@@ -1,7 +1,5 @@
-<!-- 
-Please maintain consistency between .github/CODE_OF_CONDUCT.md
-and doc\source\dev\conduct\code_of_conduct.rst
--->
+.. Please maintain consistency between .github/CODE_OF_CONDUCT.md
+   and doc/source/dev/conduct/code_of_conduct.rst
 
 SciPy Code of Conduct
 =====================
